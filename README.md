@@ -4,8 +4,11 @@
 ## 📁 5. Calculator-CLI
 
 # CLI Calculator
-## Demo
-https://github.com/Ayush2003gn/Calculator-CLI/raw/refs/heads/main/2026-04-05%2013-45-01%20-%20Trim.mp4
+## 🎥 Demo Video
+
+https://github.com/user-attachments/assets/3592e25d-ba8d-4426-86fd-403c08d32712
+
+
 ## 📌 Overview
 A command-line calculator that performs basic arithmetic operations.
 
